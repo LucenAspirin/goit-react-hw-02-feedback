@@ -1,0 +1,14 @@
+.container {
+  width: 800px;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+.title {
+  margin: 0;
+  padding: 20px 0;
+
+  font-size: 15px;
+  color: rgb(88, 88, 88);
+}
